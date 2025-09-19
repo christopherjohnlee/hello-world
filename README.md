@@ -1,2 +1,4 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+I"m a FOSS, Linux, Fediverse, and privacy enthusiast.
+
+Check me out on LinkedIn!
